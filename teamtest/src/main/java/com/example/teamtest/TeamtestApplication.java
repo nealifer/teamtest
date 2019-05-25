@@ -8,7 +8,8 @@ public class TeamtestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TeamtestApplication.class, args);
-		String one = "Last one!";
+
+		String one = "Final Countdown!";
 		System.out.println(one);
 	}
 
