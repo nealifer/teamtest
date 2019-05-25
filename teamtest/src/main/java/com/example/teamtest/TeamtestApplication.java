@@ -8,7 +8,7 @@ public class TeamtestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TeamtestApplication.class, args);
-		String one = "Hello World!";
+		String one = "Taco!";
 		System.out.println(one);
 	}
 
